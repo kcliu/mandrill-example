@@ -1,0 +1,26 @@
+{
+  "name": "mandrill-example",
+  "version": "0.0.0",
+  "description": "mandrill-example ================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kcliu/mandrill-example.git"
+  },
+  "keywords": [
+    "mandrill"
+  ],
+  "author": "Kuang-Che Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcliu/mandrill-example/issues"
+  },
+  "homepage": "https://github.com/kcliu/mandrill-example",
+  "dependencies": {
+    "mandrill-api": "~1.0.40",
+    "coffee-script": "~1.7.1"
+  }
+}
